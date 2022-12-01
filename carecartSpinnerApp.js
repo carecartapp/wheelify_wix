@@ -6,7 +6,7 @@
     var d = new Date();
     //var version = d.getSeconds();
 
-    var API_URL = 'https://wix-spinner.carecart.io/';
+    var API_URL = 'https://dev-spinner-wix.carecart.io/';
 
     var CDN_WHEELIFY_URL = 'https://cdn.jsdelivr.net/gh/carecartapp/app-wheelify@2.0.29/';
 
